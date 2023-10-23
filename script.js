@@ -8,7 +8,7 @@ function decimalToBinary(num) {
 	}
   for(let j= i-1; j>=0; j--)
 	  {
-		  document.write(binarynum[j]);
+		  console.log(binarynum[j]);
 	  }
 }
 
